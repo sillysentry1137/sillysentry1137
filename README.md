@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @sillysentry1137 (Real name is JC Perez)
+- 👋 Hi, I’m @sillysentry1137
+- ("Sentry" because I'm a cybersecurity student; "1/137" for Sommerfeld's fine structure constant)
 - 👀 I’m interested in ethical hacking, pentesting, and security.
 - 🌱 I’m currently learning how to build and debug small applications.
 - 💞️ I’m not looking to collaborate on any projects at the moment.
